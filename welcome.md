@@ -5,7 +5,7 @@
 -hobbies- baking and playing badminton
 -<html>
 <head>
-<title>Basics tag</title
+<title>Basics tag</title>
   <h1> Heading</h1>
   <h2> New folder</h2>
 </head>      
